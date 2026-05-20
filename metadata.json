@@ -1,0 +1,8 @@
+{
+  "name": "LEARN-X",
+  "description": "An advanced autonomous multi-agent education system for personalized, adaptive, and measurable learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
